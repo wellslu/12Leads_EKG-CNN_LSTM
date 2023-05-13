@@ -16,3 +16,5 @@ Continuous tracking of left ventricular ejection fraction (LVEF) through echocar
 The final public board AUC is 97.26%, and the final private board AUC is 90.49%.
 <img src="png/pub_auc.png" width="400"></img>
 <img src="png/pri_auc.png" width="400"></img>
+
+pytorch template referance from: https://github.com/narumiruna/pytorch-template/tree/mlconfig
